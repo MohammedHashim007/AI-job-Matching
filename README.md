@@ -2,7 +2,7 @@
 
 A beginner-friendly AI application that compares a candidate resume with a job description and provides a structured job-match analysis.
 
-This project is part of the **AI Projects Series** from **Karthik's Show**.
+This project is part of the **AI Projects Series** from HASHIM.
 
 ## Features
 
@@ -70,7 +70,7 @@ ai-job-search-agent/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/KarthiksShow/ai-job-search-agent.git
+git clone https://github.com/MohammedHashim007/ai-job-search-agent.git
 cd ai-job-search-agent
 ```
 
@@ -184,30 +184,3 @@ By building this project, you can learn:
 - How to generate grounded recommendations
 - How to build a practical AI application with Streamlit
 
-## YouTube Tutorial
-
-This project is explained step by step in Tamil on **Karthik's Show**.
-
-The tutorial covers:
-
-- Project setup
-- Resume upload
-- PDF text extraction
-- Candidate profile extraction
-- Job description analysis
-- Job-match scoring
-- Skill-gap analysis
-- Recommendations
-- Interview-question generation
-
-## Channel
-
-**Karthik's Show**
-
-Learn. Build. Grow.
-
-## Disclaimer
-
-This project is for learning and demonstration purposes.
-
-The AI-generated match score and recommendations should not replace human judgment in job applications or hiring decisions.
